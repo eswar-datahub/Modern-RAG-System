@@ -1,0 +1,10 @@
+[project]
+name = "rag-application"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "recursivecharactertextsplitter>=0.1.0",
+    "textsplitter>=1.0.3",
+]
